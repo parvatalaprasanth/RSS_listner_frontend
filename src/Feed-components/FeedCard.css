@@ -1,0 +1,12 @@
+.FeedCard{
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+    
+
+}
+
+.Authur {
+    display: flex;
+    justify-content: space-between
+}
